@@ -10,7 +10,7 @@ $users = $stmt->fetchAll();
 ?>
 <!DOCTYPE html>
 <html>
-<head><title>Gestion des utilisateurs</title><link rel="stylesheet" href="css/style.css"></head>
+<head><title>Gestion des utilisateurs</title><link rel="stylesheet" href="style.css"></head>
 <body><div class="container">
 <h2>Utilisateurs enregistrés</h2>
 <table border="1">
